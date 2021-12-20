@@ -1,0 +1,14 @@
+src
+.nvmrc
+.prettierignore
+.prettierrc.js
+.editorconfig
+.eslintrc.js
+.eslintignore
+babel.config.js
+tsconfig.json
+jest.config.*
+.huskyrc
+lint-staged.config.js
+.github
+coverage
